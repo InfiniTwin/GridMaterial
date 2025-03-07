@@ -11,3 +11,4 @@ This project is licensed under the Unreal Engine 5 EULA.
    ```
    git submodule add https://github.com/InfiniTwin/GridMaterial.git Plugins/GridMaterial
    ```
+3. Switch to **_plugin_** branch

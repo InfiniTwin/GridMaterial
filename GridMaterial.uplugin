@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "GridMaterial",
+	"Description": "A procedural world-space grid material for level blockouts.",
+	"Category": "Other",
+	"CreatedBy": "techarthub",
+	"CreatedByURL": "https://github.com/techarthub/ue5-grid-material",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}

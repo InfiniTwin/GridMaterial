@@ -5,3 +5,10 @@ A procedural, world-space grid material for level blockouts. Created by Nick Mow
 Full tutorial can be found [here.](https://www.techarthub.com/making-a-procedural-grid-material-in-unreal-engine/)
 
 This project is licensed under the Unreal Engine 5 EULA.
+
+## Installation
+1. Open Git Bash / Terminal at the project root
+2. Add submodule
+   ```
+   git submodule add https://github.com/InfiniTwin/GridMaterial.git Plugins/GridMaterial
+   ```
